@@ -1,9 +1,13 @@
 _repo: Considerations-inactuelles-deuxieme-serie-Schopenhauer-educateur-Richard-Wagner-a-Bayreuth_48006
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Albert, Henri
     gutenberg_agent_id: '44573'
     url: http://www.gutenberg.org/2009/agents/44573
+covers:
+- cover_type: archival
+  image_path: 48006-h/images/cover.jpg
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/779
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48006#Considerations-inactuelles-deuxieme-serie-Schopenhauer-educateur-Richard-Wagner-a-Bayreuth
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2015-01-17'
 gutenberg_type: Text
