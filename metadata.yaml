@@ -28,6 +28,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Considérations inactuelles, deuxième série
 
   Schopenhauer éducateur, Richard Wagner à Bayreuth'
